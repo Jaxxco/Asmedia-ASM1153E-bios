@@ -1,0 +1,6 @@
+AXAGON EE35-XA3 3.5 HDD enclosure
+USB3 sata controller Asmedia ASM1153E
+XTX XT25F01D bios
+
+Programmed with XGECU Pro  TL866II Plus, Xgpro version 12.63
+Select FM25F01 from list, ignore the 2 not connected pin warning, and uncheck "Check Id"
